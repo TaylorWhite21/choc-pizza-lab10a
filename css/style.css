@@ -1,7 +1,7 @@
-* {
+body {
   box-sizing: border-box;
-  margin-left: 30%;
-  margin-right: 30%;
+  width: 960px;
+  margin:auto;
 }
 
 .head {
@@ -75,8 +75,30 @@ p {
   text-indent: 30px;
 }
 
-.notepad {
-  margin-left: 50px;
+.container figure{
+  position: absolute;
+  z-index: -1;
+}
+.container img{
+  position: relative;
+
+}
+main{
+  overflow: hidden;
+
+}
+.container{
+  height: 305px;
   margin-top: 20px;
 }
+.list{
+  font-size: 2.1em;
+  margin-left: 50px;
+  columns: 2 auto;
+}
+button{
+  display:inline-block;
+  margin-left: 800px;
+  border: 1px red solid;
 
+}
