@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.head {
+  border: 1px black solid;
+  display: inline-block;
+}
+
+.titleimage {
+  width: 55px;
+  height: 55px;
+  border: 1px black solid;
+}
+
+.delicious {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 2em;
+  border: 1px blue solid;
+  display: inline-block;
+}
+
+.logos {
+  border: 1px blue solid;
+  display: inline-block;
+  margin-left: 315px;
+  
+}
+
+.pinterest {
+  margin-right: 10px;
+}
+
+.bar {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: .5%;
+}
+.title {
+  border: 1px red solid;
+  display: inline-block;
+}
+
+h2 {
+   font-size: 2em;
+   font-weight: bold;
+   font-family: 'Anton', sans-serif;
+}
+
+.posted {
+  color: gray;
+  opacity: 0.6;
+}
+
+.printicon {
+  float: right;
+}
+
+.print {
+  float:right;
+}
+
+.choco {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+p {
+  margin-top: 30px;
+  text-indent: 30px;
+}
+
+.notepad {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
